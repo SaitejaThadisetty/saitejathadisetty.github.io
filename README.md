@@ -1,5 +1,6 @@
-# saitejathadisetty.github.io
+My Portfolio Website
 
-Education:
-   Jawaharlal Nehru Technological University.
+[My Portfolio Website]([url](https://saitejathadisetty.github.io/)https://saitejathadisetty.github.io/)
+
+
    
